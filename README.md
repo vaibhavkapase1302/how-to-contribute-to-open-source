@@ -37,6 +37,8 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
+Open Source contribution by Vaibhav Kapase
+
 This is a list of resources for people who are new to contributing to Open Source.
 
 If you find additional resources, please contribute a pull request.
